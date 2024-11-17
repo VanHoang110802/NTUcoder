@@ -1,4 +1,4 @@
-> Link: https://thptchuyen.ntucoder.net/Problem/Details/4514
+> [Link đề](https://thptchuyen.ntucoder.net/Problem/Details/4514)
 
 Cho 2 số nguyên a,b. Viết chương trình in ra 2 số nguyên x, y biểu diễn phân số $\frac{a}{b}$ dưới dạng tối giản, chú ý ta quy ước phân số $\frac{x}{y}$ tối giản khi gcd(x, y) = 1 và y > 0. In ra ERROR nếu b = 0.
 
